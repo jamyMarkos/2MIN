@@ -1,0 +1,14 @@
+{
+  "name": "string-reverse-123",
+  "version": "1.0.0",
+  "description": "This is just test project to learn how npm packages are published",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JM"
+  ],
+  "author": "Mintesnot Markos",
+  "license": "ISC"
+}
